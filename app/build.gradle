@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.receparslan.travelbook'
-    compileSdk 35
+    compileSdkVersion 36
 
     defaultConfig {
         applicationId "com.receparslan.travelbook"
         minSdk 24
-        targetSdk 35
+        targetSdk 36
         versionCode 1
         versionName "1.0"
 
