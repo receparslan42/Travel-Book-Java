@@ -31,9 +31,9 @@ app/src/main/res/
 ```
 
 ## Screenshots
-| List Screen                                                            | Detail Screen                                                              | Add Screen                                                           |
-|------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| <img src="screenshots/list_screen.jpg" alt="List Screen" width="33%"/> | <img src="screenshots/detail_screen.jpg" alt="Detail Screen" width="33%"/> | <img src="screenshots/add_screen.jpg" alt="Add Screen" width="33%"/> |
+| List Screen                                                | Detail Screen                                                  | Add Screen                                               |
+|------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------|
+| <img src="screenshots/list_screen.jpg" alt="List Screen"/> | <img src="screenshots/detail_screen.jpg" alt="Detail Screen"/> | <img src="screenshots/add_screen.jpg" alt="Add Screen"/> |
 
 ## Setup
 1) Prerequisites
